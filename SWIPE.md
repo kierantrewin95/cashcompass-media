@@ -32,3 +32,12 @@ UK accounts to keep watching: @jno_pwnr, @airiczz, @tinukerebekah, @martinlewism
 
 #savemoney #personalfinance #financialliteracy #moneyhabits #simplesavings #frugalliving #onabudget #moneytok #budget2026 #ukmoney
 Keywords: cost of living, not worth the money, habits, cut, save, budget, HMRC, ISA, first time buyer
+
+## 2026-11-08 (no new scan)
+
+vidIQ had 1 credit (search needs 5; renews 11 Nov), so no outlier search this week. Week of 9 Nov reels built from the 31 Oct patterns:
+- Numbered listicle (pattern 2): 5 Black Friday checks (Black Friday is 27 Nov 2026).
+- Then vs now (pattern 3): Personal Allowance £12,570 in 2021, 2026 and 2031 (frozen to 5 Apr 2031, gov.uk).
+- Surprising UK money fact (pattern 4): Marriage Allowance, up to £252 a year, backdate to Apr 2022 (gov.uk).
+- Opinion / keyword comment asks (pattern 6) on all three.
+Audio note: SocialPilot (31 Oct to 10 Nov) lists Twista "Sunshine (Instrumental)" as a rising instrumental used under text tips. Most of that week's list is major-label and may be blocked on business accounts, so check in-app.
