@@ -41,3 +41,30 @@ vidIQ had 1 credit (search needs 5; renews 11 Nov), so no outlier search this we
 - Surprising UK money fact (pattern 4): Marriage Allowance, up to £252 a year, backdate to Apr 2022 (gov.uk).
 - Opinion / keyword comment asks (pattern 6) on all three.
 Audio note: SocialPilot (31 Oct to 10 Nov) lists Twista "Sunshine (Instrumental)" as a rising instrumental used under text tips. Most of that week's list is major-label and may be blocked on business accounts, so check in-app.
+
+## Scan 2026-11-15 (vidIQ outliers since 1 Nov 2026)
+
+| Account | Views | vs their median | Format | Hook shape |
+|---|---|---|---|---|
+| @ollypersonalfinance (UK) | 1.6M | 175x | Static salary table over city b-roll, lo-fi beat, looped | "UK SALARIES AFTER TAX" data table people screenshot |
+| @koveproperties (UK) | 1.1M | 56x | Faceless text over street b-roll, music only, looped | "A friendly reminder that you're doing well" + average-Brit stats |
+| @judith_learyjoyce (UK) | 849K | 80x | Talking head, numbered tips | "5 things I wish I'd known about reducing winter energy bills" |
+| @thequidsquid (UK) | 181K IG / 217K TT | 68x / 74x | Talking head countdown | "Top 5 worst salaries in the UK" (tax and benefit traps) |
+| @henrythechasetofreedom (UK, TT) | 418K | 1130x | Talking head listicle | "Amazon Prime is more than just delivery" (hidden perks of a bill you already pay) |
+| @skynews (TT) | 595K | 23x | News explainer | "Bank of England raises rates from 3.75% to 4%" |
+| @thedoctor730 (UK) | 2.9M | 56x | Comedy talking head | "My living expenses and bills for one month in the UK" |
+| Several (@come_tripwithme, @thebienpanchocarbos) | 240K-513K | 140-820x | Scenic b-roll + dry voiceover, comedy | "I've just calculated my budget..." punchline meme |
+
+## New patterns (15 Nov)
+
+7. **Take-home pay tables.** Salary vs what actually lands each month is the biggest finance outlier this fortnight. Static, screenshot-able, looped.
+8. **Winter bills.** Energy-bill tips and "do you pay your water bill?" are pulling UK comments in November.
+9. **Rate news within days.** BoE rise to 4% (5 Nov, next decision 17 Dec) drove big news views. Translate it to "what to check tonight".
+10. **Reassurance framing** ("you're doing well", average-Brit comparisons) beats fear framing for saves and shares.
+11. The "I've just calculated my budget" cost-of-living meme is everywhere; comedy, not our lane, but the relatability is the signal.
+
+Keywords: take home pay, after tax, UK salaries, cost of living, energy bills, winter, interest rates, base rate, savings rate
+Hashtags seen: #costofliving #ukpersonalfinance #uksalaries #incometax #budgetinguk #moneymanagement #ukbills #PersonalFinance #savingmoney
+
+Week of 16 Nov reels: Mon take-home table (pattern 7 + 2), Wed base rate 4% (pattern 9 + 6), Fri Warm Home Discount (patterns 4 + 8).
+Audio: SocialPilot's list is still the 31 Oct-10 Nov edition; Twista "Sunshine (Instrumental)" remains its only instrumental. Linger (The Cranberries) and Hold On, We're Going Home (Drake, Majid Jordan) are the calm non-festive options. Check business-account availability in-app.
