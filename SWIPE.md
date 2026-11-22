@@ -68,3 +68,35 @@ Hashtags seen: #costofliving #ukpersonalfinance #uksalaries #incometax #budgetin
 
 Week of 16 Nov reels: Mon take-home table (pattern 7 + 2), Wed base rate 4% (pattern 9 + 6), Fri Warm Home Discount (patterns 4 + 8).
 Audio: SocialPilot's list is still the 31 Oct-10 Nov edition; Twista "Sunshine (Instrumental)" remains its only instrumental. Linger (The Cranberries) and Hold On, We're Going Home (Drake, Majid Jordan) are the calm non-festive options. Check business-account availability in-app.
+
+## Scan 2026-11-22 (vidIQ outliers since 8 Nov 2026)
+
+| Account | Views | vs their median | Format | Hook shape |
+|---|---|---|---|---|
+| @mkr_elliot (UK) | 115K | 116x | Talking head, numbered list | "£X in debt. 7 habits that..." (stakes number + listicle) |
+| @tamekafinance (UK, TT) | 50K | 109x | Static text over creator, trending song, looped | "I was today years old..." little-known UK scheme (Help to Save) |
+| @henrythechasetofreedom (UK, TT) | 418K | 860x | Talking head listicle | Hidden perks of a bill you already pay (Amazon Prime) |
+| @thequidsquid (UK, TT) | 277K | 185x | Talking head countdown | "Top 5 worst salaries in the UK" (tax traps) |
+| @koveproperties (UK) | 1.4M | 73x | Faceless text over street b-roll, music only, looped | "A friendly reminder that you're doing well" (still climbing) |
+| @toritriesto / @toritrieshard (UK) | 282K / 275K | 44x / 57x | Top-down cash envelopes, music | "I saved my leftover money for 52 weeks" (savings challenge reveal) |
+| @gabriel.nussbaum (UK, TT) | 147K | 25x | Split-screen dialogue, salary table | "£74,500 salary breakdown" (take-home, pattern 7 still working) |
+| @financewithafshin (UK) | 208K | 17x | Two-character skit | "Living on minimum wage in the UK" |
+| @moneymumofficial (UK) | 262K | 17x | Handwritten list, voiceover | "How to afford Christmas" |
+| @clearthinkingclub (UK, TT) | 380K | 2x | 5s static list, music, looped | "WHEN TO BUY EVERYTHING (UK)" |
+| @toxicbritain8 (UK, TT) | 214K | 9x | Static rate table, beat, looped | "Benefit & pension rates for 2027/28" |
+| @itvmlshow | 389K | 6x | Presentation | Bank switch bonuses up to £300 |
+| @talithar.corr, @meme_yolo_ | 76K-275K | 74-85x | Scenic b-roll voiceover, comedy | "I've just calculated my budget" meme, still everywhere |
+
+## New patterns (22 Nov)
+
+12. **Savings challenges.** 52-week / cash-stuffing reveals pull big numbers from small UK accounts. The maths is the hook.
+13. **Little-known schemes for benefit claimants** ("I was today years old"). Help to Save on Universal Credit is breaking out on tiny accounts.
+14. **Minimum wage reality / 2027 rates.** April 2027 rate tables (benefits, NLW £13.21) and minimum-wage skits are pulling UK comments.
+15. **Christmas budgeting** is starting (how to afford Christmas, £50 challenges). December lane.
+16. **5-second static lists** ("when to buy everything UK") loop hard. Ultra-short screenshot bait.
+
+Keywords: minimum wage, national living wage, 2027 rates, Universal Credit, Help to Save, 52 week challenge, savings challenge, cash stuffing, afford Christmas
+Hashtags seen: #universalcredit #personalfinanceuk #moneysavingtips #savingmoney #ukmoney #savings #Budgeting #moneymindset #cashstuffing #costofliving #uksalaries
+
+Week of 23 Nov reels: Mon Help to Save (patterns 13 + 4), Wed minimum wage then vs now (patterns 14 + 3 + 6), Fri 52-week challenge (patterns 12 + 2 + 6).
+Audio: SocialPilot 17-25 Nov. Calm non-festive picks: "November" (Past Day), "Coming Up Roses" (Harry Styles), "Time" (Pink Floyd). "Christmas Market" (Eoneun) is the soft instrumental but festive, so hold it for December.
